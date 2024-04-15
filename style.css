@@ -1,0 +1,36 @@
+body{
+  background-color: rgb(236, 226, 216);
+}
+h1{
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+hr{
+  color: gray;
+  background-color: gray;
+  border-color: gray;
+}
+img{
+  width: 100%;
+  border-radius: 50%;
+  border: solid black;
+}
+.image-container{
+  display: flex;
+  justify-content: center;
+  align-items:center ;
+}
+.image-wrapper{
+  width: 200px;
+  height: 180px;
+}
+p{
+  color: black;
+  font-family: Georgia, 'Times New Roman', Times, serif ;
+  font-size: 100%;
+}
+
+h3{
+  color: rgb(199, 98, 98);
+}
